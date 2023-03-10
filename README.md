@@ -11,7 +11,9 @@ been cropped or rotated to fix orientation.
 
 Content may exhibit wrinkles or tears from the process of peeling the 
 labels from the bottles. Best efforts have been made to minimize these
-effects. 
+effects. Better resolution and quality images may be available on 
+individual manufacturer websites, but this library aims to provide and
+overall view of product labeling across manufacturers.
 
 ### source-data naming convention
 Files are labeled all lower case in the format 
